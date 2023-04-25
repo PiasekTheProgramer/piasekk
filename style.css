@@ -1,0 +1,9 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background: rgb(255, 207, 149);
+  background-size: cover;
+  background-position: center;
+}
